@@ -21,3 +21,8 @@ Open the Studio running locally in your browser from http://localhost:3333.
 
 You should now see a screen prompting you to log in to the Studio. Use the same service (Google, GitHub, or email) that you used when you logged in to the CLI.
 
+## Deploy your changes
+
+Deploy your changes to the hosted Sanity studio so that content managers can use them!
+
+	npm run deploy
