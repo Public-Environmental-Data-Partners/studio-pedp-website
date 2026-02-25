@@ -11,7 +11,9 @@ Install the dependencies:
 
 	npm install
 
-Then in the proejct directory, run
+Set up your local `.env` file. Copy the `.env.example` file and update it with the correct values.
+
+Then in the project directory, run
 
     npm run dev
 
